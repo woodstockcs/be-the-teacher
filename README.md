@@ -21,3 +21,7 @@ Resources you may want to reference:
 - cs50 lecture: https://video.cs50.net/2018/fall/lectures/5
 - cs50 shorts: https://www.youtube.com/playlist?list=PLhQjrBD2T381k8ul4WQ8SQ165XqY149WW
 
+---
+
+#### Credit
+_This assignment is based on a similar one at CS50: https://docs.cs50.net/2019/ap/problems/teacher/teacher.html_
